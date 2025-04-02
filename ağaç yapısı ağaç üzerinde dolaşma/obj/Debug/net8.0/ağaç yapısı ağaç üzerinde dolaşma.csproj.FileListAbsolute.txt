@@ -1,0 +1,14 @@
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.exe
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.deps.json
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.runtimeconfig.json
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.dll
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.pdb
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.AssemblyInfoInputs.cache
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.AssemblyInfo.cs
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.csproj.CoreCompileInputs.cache
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.dll
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\refint\ağaç yapısı ağaç üzerinde dolaşma.dll
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.pdb
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ağaç yapısı ağaç üzerinde dolaşma.genruntimeconfig.cache
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\ağaç yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ref\ağaç yapısı ağaç üzerinde dolaşma.dll
