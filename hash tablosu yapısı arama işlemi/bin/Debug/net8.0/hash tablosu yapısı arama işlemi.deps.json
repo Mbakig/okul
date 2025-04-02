@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hash tablosu yapısı arama işlemi/1.0.0": {
+        "runtime": {
+          "hash tablosu yapısı arama işlemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hash tablosu yapısı arama işlemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
