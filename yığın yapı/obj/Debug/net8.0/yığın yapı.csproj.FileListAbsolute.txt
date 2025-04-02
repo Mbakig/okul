@@ -1,0 +1,14 @@
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\bin\Debug\net8.0\yığın yapı.exe
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\bin\Debug\net8.0\yığın yapı.deps.json
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\bin\Debug\net8.0\yığın yapı.runtimeconfig.json
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\bin\Debug\net8.0\yığın yapı.dll
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\bin\Debug\net8.0\yığın yapı.pdb
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\yığın yapı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\yığın yapı.AssemblyInfoInputs.cache
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\yığın yapı.AssemblyInfo.cs
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\yığın yapı.csproj.CoreCompileInputs.cache
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\yığın yapı.dll
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\refint\yığın yapı.dll
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\yığın yapı.pdb
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\yığın yapı.genruntimeconfig.cache
+C:\Users\mbaki\OneDrive\Masaüstü\Okul2.dönem\veri yapıları proje\yığın yapı\obj\Debug\net8.0\ref\yığın yapı.dll
